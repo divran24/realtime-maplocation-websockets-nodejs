@@ -15,6 +15,12 @@ This is a real-time device tracking web application that allows users to monitor
 - **Server**: Node.js, Express.js, Socket.io
 - **Map Interface**: Leaflet.js
 
+ ## Usage
+ 
+- Launch the app and open the provided URL in your browser.
+- The map will display real-time locations of devices as they update.
+- Use the interactive map features to zoom in/out and explore different regions.
+
 ### Clone the Repository
 
 ```bash
